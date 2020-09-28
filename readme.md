@@ -1,0 +1,1 @@
+Created a resume of myself, for a school project.

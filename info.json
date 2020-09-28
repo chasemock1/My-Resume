@@ -1,0 +1,17 @@
+{
+    "name": "Chase Mock",
+    "email": "chasemock1@outlook.com",
+    "proficientTechnologies":[
+        "Python",
+        "C#",
+        "Swift",
+        "Java"
+    ],
+    "Interests/Hobbies":[
+        "Gaming",
+        "Racing",
+        "Race Car Engieering",
+        "Apple"
+    ]
+    
+}
